@@ -1,0 +1,70 @@
+- Celer GP Max%
+
+- Plateau:
+    - .!!(SoR):
+        notes: Old shirt and well-worn trousers
+    
+    - _Material<6 Peppers>:
+        comment: 
+        coord: [-967.5,1956.5]  
+    - _Material<4 Peppers>:
+        comment:    
+        notes: You can also get Steak    
+    - _Equipment::Shield<Pot Lid>:
+        coord: [-953.25,1956.75]
+    - _Equipment::Weapon<Axe>:
+        coord: [-913.5,1868.5]
+    - _Korok::P10
+    - _Equipment::Bow<Bow>:
+        coord: [-830,1964.75]
+    - _Material<5 arrows>:
+        comment: 
+    - _Chest<Trousers>:
+        coord: [-737.5,1866]
+    - _Shrine::JaBaij:
+        notes: Amiibo scan peppers and shroom.
+    - _Korok::P12 
+    - _Tower::GreatPlateau   
+    - _Shrine::OmanAu
+    - _Korok::P18    
+    - _Shrine::OwaDaim
+    - _Korok::L08
+    - _Korok::P13  
+    - _Warp::Shrine::OwaDaim:
+        notes: Hammer
+    - _Korok::P16
+    - _Korok::P17
+    - _Korok::P15
+    - _Korok::W22:
+        notes: Void Out
+    - _Warp::TravelMedallion<-1021.75,1792.375> :
+        notes: Not a warp, just the respawn after voiding out            
+    - _Korok::P06
+    - _Korok::P04
+    - _Korok::P05
+    - _Korok::P01
+    - _Korok::P02
+    - _Material<5 Fire arrows>:
+       comment: 
+       coord: [-765.5,1547]  
+    - _Warp::Shrine::OwaDaim    
+    - _Shrine::KehNamut
+    - _Korok::P07
+    - _Korok::P08
+    - _Korok::P03
+    - _Boss::Talus::Stone:
+       coord: [-1091,1665]  
+    - _Korok::C80
+    - _Korok::C87
+    - _Korok::C89     
+    - _Warp::TravelMedallion<-1021.75,1792.375> :
+        notes: Not a warp, just the respawn after voiding out
+    - _Npc<Godess Statue>:
+        coord: [-823.25,2030]
+        notes: Stamina upgrade
+    - _Korok::P11     
+    - _Npc<Paraglider>:
+        icon: king
+        coord: [-809.33, 263.58, 1964.35]
+
+
