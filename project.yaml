@@ -1,0 +1,20 @@
+title: GP Max%
+
+version: 1.0
+
+route: 
+  use: ./main.yaml
+
+config:
+ - use: Pistonight/celer-presets/botw/full.yaml
+
+
+ - plugins:
+    - use: link
+    - use: variables
+    
+    
+    
+
+  
+
